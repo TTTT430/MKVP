@@ -1,4 +1,3 @@
-# 文件名: S_MA/preprocess_ate.py
 import spacy
 import json
 from tqdm import tqdm
