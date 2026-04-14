@@ -1,9 +1,3 @@
-"""
-Name: dev_process
-Date: 2024/6/28 上午10:26
-Version: 1.1 (Modified for Robustness Test)
-"""
-
 from PIL import Image
 from PIL import ImageFile
 from PIL import TiffImagePlugin
