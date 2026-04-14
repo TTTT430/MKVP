@@ -1,9 +1,3 @@
-"""
-Name: dev_process
-Date: 2024/6/28 上午10:26
-Version: 1.0
-"""
-
 import numpy as np
 import torch
 import torch.nn as nn
