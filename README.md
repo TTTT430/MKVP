@@ -1,7 +1,6 @@
 ﻿# MKVP: Multi-source Knowledge guided Visual Confidence Perception for Multimodal Sentiment Analysis
 
 > **论文标题**：基于多源知识引导的视觉置信度感知的多模态情感分析网络  
-> **发表期刊**：《电子与信息学报》(Journal of Electronics & Information Technology)
 
 ## 概述
 
@@ -293,9 +292,6 @@ $$\mathcal{L}_{total} = \lambda_1 \mathcal{L}_{cls} + \lambda_2 \mathcal{L}_{cl}
   - 文本：随机删除 (delete) / 随机乱序 (shuffle)，噪声比 0%~50%
   - 图像：RandAugment (N=2, M=14)
 
-## 开源数据
-
-项目数据可在科学数据银行获取：[https://www.scidb.cn/s/Fji67r](https://www.scidb.cn/s/Fji67r)
 
 ## 许可证
 
@@ -303,4 +299,3 @@ $$\mathcal{L}_{total} = \lambda_1 \mathcal{L}_{cls} + \lambda_2 \mathcal{L}_{cl}
 
 ---
 
-*如有问题请联系：29859491@qq.com*
