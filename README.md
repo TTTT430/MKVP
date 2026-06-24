@@ -139,8 +139,6 @@ MKVP/
 |   |-- write_file.py       # 日志写入工具
 |   |-- text_process_fun.py # 文本处理函数
 |   |-- image_augmentation/ # 图像增强 (RandAugment)
-|-- README.md
-|-- 电子与信息学报终版修订.pdf # 已发表论文终稿
 ```
 
 ## 环境依赖
